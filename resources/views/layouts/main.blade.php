@@ -23,7 +23,7 @@
         <nav class="navbar navbar-expand-lg navbar-light">
           <div class="collapse navbar-collapse" id="navbar">
             <a href="/" class="navbar-brand">
-              <img src="/img/racing.png" alt="HDC Events">
+              <img src="/img/racing.png" alt="Catálogo Carros">
             </a>
             <ul class="navbar-nav">
               <li class="nav-item">
